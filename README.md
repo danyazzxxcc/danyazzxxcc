@@ -1,16 +1,28 @@
-## Hi there 👋
+# Портфолио веб-разработчика
 
-<!--
-**danyazzxxcc/danyazzxxcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Меня зовут Даниил Фадеев — я веб-разработчик (Node.js + PostgreSQL).  
+Создаю сайты, админки, каталоги, корзины, авторизацию и API. Люблю понятную структуру, чистый код и надёжность.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Навыки
+
+- JavaScript (ES6+), HTML5, CSS3
+- Node.js + Express
+- PostgreSQL + SQL
+- EJS, jQuery, адаптивная вёрстка
+- Cookie
+---
+
+## 🚀 Проекты
+
+🛒 **Для Дома и Себя** — интернет-магазин изделий из ротанга  
+**Описание:** Каталог, корзина, оформление заказа, админка.  
+**Стек:** Node.js, Express, PostgreSQL, EJS  
+🌐 [Сайт Rotang](https://rotangdom.ru)
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@danyaaamoon](https://t.me/danyaaamoon)
